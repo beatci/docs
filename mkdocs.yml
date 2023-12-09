@@ -2,3 +2,5 @@ site_name: Beat CI
 theme:
   name: readthedocs
   locale: en
+nav:
+  - Home: index.md
